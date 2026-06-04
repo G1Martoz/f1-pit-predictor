@@ -20,7 +20,7 @@ Para facilitar la auditoría académica del proyecto, el espacio de trabajo se h
 Si deseas clonar este repositorio y reproducir el entorno de análisis, ejecutá la siguiente secuencia de comandos en tu terminal:
 
 # 1. Clonar el repositorio remoto
-git clone <>
+git clone <https://github.com/G1Martoz/f1-pit-predictor.git>
 
 # 2. Instalar el ecosistema de librerías requeridas
 pip install -r requirements.txt
