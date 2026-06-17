@@ -1,5 +1,5 @@
 # VIDEO DE YOUTUBE:
-[VIDEO DE YOUTUBE](https://youtu.be/KZopIQugPAs)
+[VIDEO DE YOUTUBE](https://youtu.be/UnhfJ73g2qI)
 
 # 🏎️ Predictor de Ventana Óptima de Pit Stops (F1)
 Este proyecto de Machine Learning aplica algoritmos de aprendizaje supervisado (regresión) para determinar con precisión numérica la vuelta exacta en la que un monoplaza debe realizar su detención en boxes. El modelo funciona como un motor de consulta de realidad basado en el historial técnico del campeonato 2024.
