@@ -11,7 +11,7 @@ Este proyecto de Machine Learning aplica algoritmos de aprendizaje supervisado (
 Para facilitar la auditoría académica del proyecto, el espacio de trabajo se ha estructurado bajo el estándar industrial de **Cookiecutter Data Science**. Podés explorar los componentes clave navegando a través de los siguientes accesos directos:
 
 * **📂 [data/raw/](./Data/raw/)**: Bandeja de entrada de datos crudos. Contiene las 5 fuentes relacionales estáticas extraídas originalmente desde Kaggle (`races.csv`, `pit_stops.csv`, `lap_times.csv`, `drivers.csv`, `circuits.csv`).
-* **📓 [Notebooks/1.0-mo-descripcion-origen-dataset.ipynb](./Notebooks/1.0-mo-descripcion-origen-dataset.ipynb)**: Cuaderno de desarrollo principal. Contiene el esqueleto jerárquico del pipeline de datos, el aislamiento de la muestra y la ejecución del método `.info()` que computa las **26.574 instancias** activas.
+* **📓 [Notebooks/1.0-mo-descripcion-origen-dataset.ipynb](./Notebooks/notebook_reorganizado_rubrica.ipynb)**: Cuaderno de desarrollo principal. Contiene el esqueleto jerárquico del pipeline de datos, el aislamiento de la muestra y la ejecución del método `.info()` que computa las **26.574 instancias** activas.
 * **📄 [docs/entregable_2_descripcion.md](./docs/entregable_2_descripcion.md)**: **Reporte Técnico de la Entrega 2**. Documento estilizado que detalla el ecosistema multifuente, el volumen dimensional del espacio muestral y el Diccionario de Datos explícito con la definición del Target continuo.
 * **⚙️ [requirements.txt](./requirements.txt)**: Archivo de configuración del entorno virtual con las declaraciones de dependencias y librerías del proyecto.
 
